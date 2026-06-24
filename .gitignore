@@ -12,7 +12,8 @@ build/
 # 模型文件（大文件）
 sentence-transformers/
 
-# 向量数据库（可重新生成）
+# 数据文件（可重新生成）
+data/raw/
 data/vector_db/
 
 # 日志
